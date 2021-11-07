@@ -1,1 +1,0 @@
-Add test that opens all the demos, possibly take screenshots of all of them too
