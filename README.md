@@ -1,3 +1,3 @@
-# Lycan Demos // TODO some sort of logo when we think it's ready
+# Lycan Demos
 
-// TODO - very broken old WIP demos, don't use these
+Very broken old WIP demos, don't use these
